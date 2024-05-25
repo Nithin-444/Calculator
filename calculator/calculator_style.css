@@ -1,0 +1,21 @@
+body{
+    border: black solid 2px;
+    padding: 10px;
+    display: inline-block;
+}
+.buttons{
+    display: inline-block;
+    border: black  solid 1px;
+    margin-top: 20px;
+    padding: 6px;
+    background-color:darkgrey;
+}
+input{
+    padding: 5px;
+}
+p{
+    font-size: xx-large;
+    font-weight: bold;
+    display: inline-block;
+    
+}
